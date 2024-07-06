@@ -1,0 +1,1 @@
+ng deploy --repo=https://github.com/victorshi01/victorshi01.github.io.git --base-href="https://victorshi01.github.io/"
